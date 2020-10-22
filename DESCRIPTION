@@ -1,0 +1,13 @@
+Package: attentive
+Type: Package
+Title: Parse UserAgent strings of survey respondents
+Version: 0.1.0
+Author: Kyle Peyton
+Maintainer: Kyle Peyton <kyle.peyton@yale.edu>
+Description: Implements simple procedures for identifying survey respondents that come from web applications and mobile devices.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.0.0)
+Imports: uaparserjs
+ 
